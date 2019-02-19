@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+<img src="images/splash_screen.jpg" height="500px" width="300px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/home_screen.jpg" height="500px" width="300px"/>
